@@ -1,2 +1,0 @@
-import{a as n}from"./chunk-HZWWJL43.mjs";var l={};n(l,{useCopyToClipboard:()=>i});import{useState as a}from"react";function i(){let[t,r]=a(null);return{copiedText:t,copy:async o=>{if(!(navigator!=null&&navigator.clipboard))return console.warn("Clipboard not supported"),!1;try{return await navigator.clipboard.writeText(o),r(o),!0}catch(e){return console.warn("Copy failed",e),r(null),!1}}}}export{i as a,l as b};
-//# sourceMappingURL=chunk-JROBE2IL.mjs.map

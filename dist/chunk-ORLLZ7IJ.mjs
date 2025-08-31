@@ -1,2 +1,0 @@
-import{a as s}from"./chunk-HZWWJL43.mjs";var d={};s(d,{useNormalizer:()=>u});import{useMemo as i}from"react";function u(e,n){return i(()=>e.reduce((r,o)=>{let t=String(o[n]);return t in r||(r[t]=o),r},{}),[e,n])}export{u as a,d as b};
-//# sourceMappingURL=chunk-ORLLZ7IJ.mjs.map

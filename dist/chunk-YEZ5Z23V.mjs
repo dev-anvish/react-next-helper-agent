@@ -1,2 +1,0 @@
-import{a as n}from"./chunk-HZWWJL43.mjs";var r={};n(r,{useCheckClient:()=>i});import{useEffect as s,useState as o}from"react";function i(){let[e,t]=o(!1);return s(()=>{t(!0)},[]),e}export{i as a,r as b};
-//# sourceMappingURL=chunk-YEZ5Z23V.mjs.map
