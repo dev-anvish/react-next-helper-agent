@@ -1,0 +1,2 @@
+import{a as n}from"./chunk-HZWWJL43.mjs";var l={};n(l,{useScrollPosition:()=>r});import{useEffect as s,useState as i}from"react";function r(){let[t,e]=i({x:0,y:0});return s(()=>{let o=()=>{e({x:window.scrollX,y:window.scrollY})};return o(),window.addEventListener("scroll",o,{passive:!0}),()=>{window.removeEventListener("scroll",o)}},[]),t}export{r as a,l as b};
+//# sourceMappingURL=chunk-XMIHMZMH.mjs.map
